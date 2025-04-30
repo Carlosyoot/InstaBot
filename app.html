@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mini Chat com Reels</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: #f0f0f0;
+      display: flex;
+      justify-content: center;
+      padding: 30px 0;
+    }
+
+    .container {
+      display: flex;
+      background: #fff;
+      border-radius: 10px;
+      overflow: hidden;
+      width: 800px;
+      height: 600px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+
+    .sidebar {
+      width: 100px;
+      background: #f4f4f4;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 0;
+      overflow-y: auto;
+      border-right: 1px solid #ccc;
+    }
+
+    .avatar-wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 10px;
+      text-align: center;
+      font-size: 12px;
+      color: #333;
+      width: 100%;
+    }
+
+    .avatar {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background-size: cover;
+      margin: 5px 0;
+      cursor: pointer;
+      border: 2px solid #aaa;
+    }
+
+    .chat-area {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .filter-bar {
+      background: #fafafa;
+      padding: 10px;
+      display: flex;
+      gap: 8px;
+      border-bottom: 1px solid #ccc;
+      justify-content: center;
+    }
+
+    .filter-bar button {
+      background: #e3f2fd;
+      border: 1px solid #90caf9;
+      padding: 6px 8px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      transition: background 0.2s;
+      min-width: 80px;
+      justify-content: center;
+    }
+
+    .filter-bar button:hover {
+      background: #bbdefb;
+    }
+
+    .chat-box {
+      flex: 1;
+      padding: 15px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      background: #e5ddd5;
+    }
+
+    .message {
+      padding: 10px 15px;
+      margin: 5px;
+      max-width: 80%;
+      border-radius: 8px;
+      font-size: 14px;
+      word-break: break-word;
+    }
+
+    .me {
+      background: #dcf8c6;
+      align-self: flex-end;
+    }
+
+    .other {
+      background: #fff;
+      border: 1px solid #ddd;
+      align-self: flex-start;
+    }
+
+    .timestamp {
+      font-size: 11px;
+      color: #999;
+      margin-top: 3px;
+      text-align: right;
+    }
+
+    /* Botão flutuante de login */
+    #loginButton {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: #25d366;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      color: white;
+      font-size: 30px;
+      text-align: center;
+      line-height: 60px;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    #loginForm {
+      display: none;
+      position: fixed;
+      bottom: 100px;
+      right: 20px;
+      background: white;
+      padding: 15px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+      z-index: 10;
+      width: 250px;
+      box-sizing: border-box;
+    }
+
+    #loginForm strong {
+      display: block;
+      margin-bottom: 10px;
+      font-size: 16px;
+      text-align: center;
+      color: #333;
+    }
+
+    #loginForm input {
+      width: 100%;
+      padding: 8px;
+      margin: 6px 0;
+      font-size: 14px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      box-sizing: border-box;
+      outline: none;
+    }
+
+    #loginForm button {
+      width: 100%;
+      padding: 8px;
+      background-color: #25d366;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 15px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    #loginForm button:hover {
+      background-color: #20b858;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="sidebar" id="userList">
+    <!-- Avatares -->
+  </div>
+
+  <div class="chat-area">
+    <div class="filter-bar">
+      <button onclick="setFilter('all')">👥 Todos</button>
+      <button onclick="setFilter('text')">💬 Textos</button>
+      <button onclick="setFilter('video')">🎬 Reels</button>
+    </div>
+    <div class="chat-box" id="chatBox">
+      <!-- Mensagens -->
+    </div>
+  </div>
+</div>
+
+<!-- Botão flutuante -->
+<div id="loginButton" onclick="toggleLoginForm()">🔐</div>
+
+<!-- Formulário de login escondido -->
+<div id="loginForm">
+  <strong>Login</strong>
+  <input id="username" placeholder="Usuário" />
+  <input id="password" type="password" placeholder="Senha" />
+  <button onclick="login()">Entrar</button>
+</div>
+
+<script>
+  let mensagens = [];
+  let currentUser = null;
+  let currentFilter = "all";
+  const meuId = "99999999999";
+  const userAvatars = {};
+
+  function toggleLoginForm() {
+    const form = document.getElementById("loginForm");
+    form.style.display = form.style.display === "none" ? "block" : "none";
+  }
+
+  async function login() {
+    alert("Login simulado com sucesso!");
+    document.getElementById("loginForm").style.display = "none";
+    await carregarMensagens();
+  }
+
+  async function carregarMensagens() {
+    try {
+      const res = await fetch("http://localhost:8000/mensagens");
+      if (!res.ok) throw new Error("Falha ao buscar mensagens");
+      mensagens = await res.json();
+    } catch (err) {
+      console.warn("Simulando mensagens locais:", err.message);
+      mensagens = [
+        {
+          usuario: "joana",
+          id_usuario: "99999999999",
+          tipo_mensagem: "text",
+          conteúdo: "Oi! Tudo bem?",
+          hora: new Date().toISOString()
+        },
+        {
+          usuario: "joana",
+          id_usuario: "88888888888",
+          tipo_mensagem: "video",
+          conteúdo: "https://www.instagram.com/reels/DJAjP9-x95l/",
+          hora: new Date().toISOString()
+        },
+        {
+          usuario: "mario",
+          id_usuario: "77777777777",
+          tipo_mensagem: "text",
+          conteúdo: "Bom dia 👋",
+          hora: new Date().toISOString()
+        }
+      ];
+    }
+
+    renderUserList();
+  }
+
+  function gerarAvatar(usuario) {
+    if (!userAvatars[usuario]) {
+      const id = Math.floor(Math.random() * 10) + 1;
+      userAvatars[usuario] = `https://randomuser.me/api/portraits/lego/${id}.jpg`;
+    }
+    return userAvatars[usuario];
+  }
+
+  function renderUserList() {
+    const userList = document.getElementById("userList");
+    userList.innerHTML = "";
+    const usuarios = [...new Set(mensagens.map(m => m.usuario))];
+
+    usuarios.forEach(usuario => {
+      const wrapper = document.createElement("div");
+      wrapper.className = "avatar-wrapper";
+
+      const img = document.createElement("div");
+      img.className = "avatar";
+      img.style.backgroundImage = `url(${gerarAvatar(usuario)})`;
+      img.title = usuario;
+      img.onclick = () => {
+        currentUser = usuario;
+        renderChat();
+      };
+
+      const label = document.createElement("div");
+      label.textContent = usuario;
+
+      wrapper.appendChild(img);
+      wrapper.appendChild(label);
+      userList.appendChild(wrapper);
+    });
+  }
+
+  function setFilter(f) {
+    currentFilter = f;
+    renderChat();
+  }
+
+  function renderChat() {
+    const chatBox = document.getElementById("chatBox");
+    chatBox.innerHTML = "";
+
+    mensagens
+      .filter(msg =>
+        msg.usuario === currentUser &&
+        (currentFilter === "all" || msg.tipo_mensagem === currentFilter)
+      )
+      .forEach(msg => {
+        const msgDiv = document.createElement("div");
+        msgDiv.className = "message " + (msg.id_usuario === meuId ? "me" : "other");
+
+        if (msg.tipo_mensagem === "text") {
+          msgDiv.innerHTML = `
+            ${msg.conteúdo}
+            <div class="timestamp">${formatTime(msg.hora)}</div>
+          `;
+        } else if (msg.tipo_mensagem === "video") {
+          msgDiv.innerHTML = `
+            <a href="${msg.conteúdo}" target="_blank">📹 Ver Reels</a>
+            <div class="timestamp">${formatTime(msg.hora)}</div>
+          `;
+        }
+
+        chatBox.appendChild(msgDiv);
+      });
+  }
+
+  function formatTime(iso) {
+    return new Date(iso).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+  }
+</script>
+
+</body>
+</html>
