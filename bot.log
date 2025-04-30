@@ -1,0 +1,390 @@
+[2025-04-29 20:15:25] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 20:15:28] [ERROR] ERRO CRÍTICO: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server - Encerrando bot.
+[2025-04-29 20:15:28] [INFO] Encerrando o bot...
+[2025-04-29 20:16:09] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 20:16:11] [ERROR] ERRO CRÍTICO: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server - Encerrando bot.
+[2025-04-29 20:16:11] [INFO] Encerrando o bot...
+[2025-04-29 20:16:29] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 20:16:31] [ERROR] ERRO CRÍTICO: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server - Encerrando bot.
+[2025-04-29 20:16:31] [INFO] Encerrando o bot...
+[2025-04-29 20:17:36] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 20:17:47] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 20:17:49] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:18:01] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:18:13] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:18:24] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:18:36] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:18:47] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:18:59] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:19:11] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:19:22] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:19:34] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:28:00] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 20:28:09] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 20:28:09] [ERROR] Erro durante monitoramento: DirectMixin.direct_threads() got an unexpected keyword argument 'update'
+[2025-04-29 20:28:39] [ERROR] Erro durante monitoramento: DirectMixin.direct_threads() got an unexpected keyword argument 'update'
+[2025-04-29 20:29:44] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 20:29:54] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 20:29:56] [ERROR] Erro durante monitoramento: 'Client' object has no attribute 'direct'
+[2025-04-29 20:30:28] [ERROR] Erro durante monitoramento: 'Client' object has no attribute 'direct'
+[2025-04-29 20:33:20] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 20:33:30] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 20:33:32] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:33:33] [MESSAGE] Nova mensagem de 23436059645: Aaah
+[2025-04-29 20:33:33] [MESSAGE] Nova mensagem de 23436059645: Entendi
+[2025-04-29 20:33:33] [MESSAGE] Nova mensagem de 43256093075: olá
+[2025-04-29 20:33:33] [MESSAGE] Nova mensagem de 43256093075: Como vai você
+[2025-04-29 20:33:50] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:34:08] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:34:27] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:34:45] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:35:03] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:35:21] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:35:39] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:35:58] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:36:16] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:36:34] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:36:52] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:37:11] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:37:29] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:37:47] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:38:05] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:38:27] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:38:46] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:39:04] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:39:22] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:39:40] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:39:59] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:40:17] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:40:36] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:40:54] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:41:12] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:41:31] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:41:49] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:42:07] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:42:26] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:42:44] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:43:02] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:43:20] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:43:39] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:43:57] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:44:15] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:44:17] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:44:17] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:44:50] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:44:52] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:44:52] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:45:24] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:45:26] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:45:26] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:45:58] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:46:00] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:46:00] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:46:32] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:46:34] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:46:34] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:47:06] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:47:09] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:47:09] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:47:41] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:47:44] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:47:44] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:48:16] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:48:18] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:48:18] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:48:50] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:48:53] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:48:53] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:49:25] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:49:27] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:49:27] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:49:59] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:50:01] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:50:01] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:50:33] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:50:36] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:50:36] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:51:08] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:51:10] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:51:10] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:51:42] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:51:44] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:51:44] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:52:16] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:52:19] [MESSAGE] Nova mensagem de 60328252812: None
+[2025-04-29 20:52:19] [ERROR] Erro durante monitoramento: Erro: 'NoneType' object has no attribute 'lower'
+[2025-04-29 20:52:53] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 20:53:03] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 20:53:05] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:53:11] [ERROR] Erro durante monitoramento: Erro: 'Logs' object has no attribute 'error'
+[2025-04-29 20:53:43] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:53:46] [ERROR] Erro durante monitoramento: Erro: 'Logs' object has no attribute 'error'
+[2025-04-29 20:54:18] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:54:20] [ERROR] Erro durante monitoramento: Erro: 'Logs' object has no attribute 'error'
+[2025-04-29 20:54:52] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:54:54] [ERROR] Erro durante monitoramento: Erro: 'Logs' object has no attribute 'error'
+[2025-04-29 20:55:26] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:55:29] [ERROR] Erro durante monitoramento: Erro: 'Logs' object has no attribute 'error'
+[2025-04-29 20:56:46] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 20:56:57] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 20:56:59] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:57:05] [MESSAGE] Nova mensagem de Leticia: Entendi
+[2025-04-29 20:57:05] [MESSAGE] Nova mensagem de Leticia: Nada ainda
+[2025-04-29 20:57:08] [ERROR] Erro durante monitoramento: Erro: 'Logs' object has no attribute 'error'
+[2025-04-29 20:59:18] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 20:59:27] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 20:59:29] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 20:59:35] [MESSAGE] Nova mensagem de Leticia: Entendi
+[2025-04-29 20:59:35] [MESSAGE] Nova mensagem de Leticia: Nada ainda
+[2025-04-29 20:59:38] [INFO] Isabel Ferrasso enviou mensagem do tipo: clip
+[2025-04-29 20:59:41] [MESSAGE] Nova mensagem de Carlos Yoot: olá
+[2025-04-29 20:59:43] [INFO] Resposta enviada para thread 340282366841710301244276215813835532052
+[2025-04-29 20:59:43] [MESSAGE] Nova mensagem de Carlos Yoot: Como vai você
+[2025-04-29 21:03:45] [ERROR] Erro durante monitoramento: Erro: login_required
+[2025-04-29 21:04:17] [ERROR] Erro durante monitoramento: Erro: login_required
+[2025-04-29 21:04:48] [ERROR] Erro durante monitoramento: Erro: login_required
+[2025-04-29 21:05:10] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:05:27] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 21:05:31] [MESSAGE] Nova mensagem de Carlos Yoot: olá
+[2025-04-29 21:05:33] [INFO] Resposta enviada para thread 340282366841710301244276215813835532052
+[2025-04-29 21:05:35] [MESSAGE] Nova mensagem de Carlos Yoot: Como vai você
+[2025-04-29 21:05:36] [MESSAGE] Nova mensagem de Zoroa: Olá! Como posso ajudar?
+[2025-04-29 21:05:38] [INFO] Resposta enviada para thread 340282366841710301244276215813835532052
+[2025-04-29 21:05:42] [MESSAGE] Nova mensagem de Leticia: Entendi
+[2025-04-29 21:05:43] [MESSAGE] Nova mensagem de Leticia: Nada ainda
+[2025-04-29 21:15:06] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:15:51] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:16:38] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:16:48] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 21:16:50] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:16:50] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:16:50] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:16:50] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:16:50] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:16:50] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:16:52] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:20:48] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:20:58] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 21:21:03] [MESSAGE] Nova mensagem de pk='43256093075' username='carlosyoot' full_name='Carlos Yoot' is_private=True profile_pic_url=HttpUrl('https://instagram.fscl29-1.fna.fbcdn.net/v/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fscl29-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHpjOzkqygfgb5gOzknH7MPHXL7fSDjgWaZ5iUZrVMyJwkNLTrKSP7Ne_s7v7MkdYI&_nc_ohc=zdUoTLA2xScQ7kNvwE6w8On&_nc_gid=F82AbAFroBZdsC5qYjm_kw&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AfH2HvC8C9SIkJMmip9aGv8qgxag_gBw_Fma9c0gcK7oaQ&oe=68173E0F&_nc_sid=c024bc') profile_pic_url_hd=HttpUrl('https://instagram.fscl29-1.fna.fbcdn.net/v/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fscl29-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QHpjOzkqygfgb5gOzknH7MPHXL7fSDjgWaZ5iUZrVMyJwkNLTrKSP7Ne_s7v7MkdYI&_nc_ohc=zdUoTLA2xScQ7kNvwE6w8On&_nc_gid=F82AbAFroBZdsC5qYjm_kw&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AfH2HvC8C9SIkJMmip9aGv8qgxag_gBw_Fma9c0gcK7oaQ&oe=68173E0F&_nc_sid=c024bc') is_verified=False media_count=0 follower_count=749 following_count=588 biography='💼dev\nhttps://x.com/Carlosyoot\nhttps://github.com/Carlosyoot' bio_links=[] external_url=None account_type=1 is_business=False broadcast_channel=[] public_email=None contact_phone_number=None public_phone_country_code=None public_phone_number=None business_contact_method=None business_category_name=None category_name=None category=None address_street=None city_id=None city_name=None latitude=None longitude=None zip=None instagram_location_id=None interop_messaging_user_fbid='17842166468445076': olá
+[2025-04-29 21:21:25] [ERROR] Erro ao responder: HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/direct_v2/threads/broadcast/link/ (Caused by ResponseError('too many 503 error responses'))
+[2025-04-29 21:21:27] [MESSAGE] Nova mensagem de pk='43256093075' username='carlosyoot' full_name='Carlos Yoot' is_private=True profile_pic_url=HttpUrl('https://instagram.fssa26-1.fna.fbcdn.net/v/t51.2885-19/464760996_1254146839119862_3605321457742435801_n.png?stp=dst-jpg_e0_s150x150_tt6&cb=8577c754-c2464923&_nc_ht=instagram.fssa26-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QGE5vS07EIYjrVmOT52-KYlCLfEi_8OVoN9439Qmy4XUSV24yEy4x9EpC8lo5hL2bU&_nc_ohc=rM8wv-5Ka48Q7kNvwH2QHVa&_nc_gid=Onf4wZ__THIif0kpnUXfgw&edm=AL4D0a4BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5-cb8577c754-c2464923&oh=00_AfEHFQ_YgOTYeFvaSHKotHG9uowb81Aig-VrTC6ll0Pa0A&oe=681749E8&_nc_sid=9e8221') profile_pic_url_hd=HttpUrl('https://instagram.fssa26-1.fna.fbcdn.net/v/t51.2885-19/464760996_1254146839119862_3605321457742435801_n.png?stp=dst-jpg_e0_s150x150_tt6&cb=8577c754-c2464923&_nc_ht=instagram.fssa26-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QGE5vS07EIYjrVmOT52-KYlCLfEi_8OVoN9439Qmy4XUSV24yEy4x9EpC8lo5hL2bU&_nc_ohc=rM8wv-5Ka48Q7kNvwH2QHVa&_nc_gid=Onf4wZ__THIif0kpnUXfgw&edm=AL4D0a4BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5-cb8577c754-c2464923&oh=00_AfEHFQ_YgOTYeFvaSHKotHG9uowb81Aig-VrTC6ll0Pa0A&oe=681749E8&_nc_sid=9e8221') is_verified=False media_count=0 follower_count=749 following_count=588 biography='💼dev\nhttps://x.com/Carlosyoot\nhttps://github.com/Carlosyoot' bio_links=[] external_url=None account_type=1 is_business=False broadcast_channel=[] public_email=None contact_phone_number=None public_phone_country_code=None public_phone_number=None business_contact_method=None business_category_name=None category_name=None category=None address_street=None city_id=None city_name=None latitude=None longitude=None zip=None instagram_location_id=None interop_messaging_user_fbid='17842166468445076': Como vai você
+[2025-04-29 21:21:29] [MESSAGE] Nova mensagem de pk='23436059645' username='tisa_dias' full_name='Leticia' is_private=False profile_pic_url=HttpUrl('https://instagram.ffbe4-1.fna.fbcdn.net/v/t51.2885-19/494769726_18080187772779646_3028115102887399899_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffbe4-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QElU74DIrPPs_0jOLRxRdrjiy6BtSK4Ozo5hfxrA_gmreRmxJD9fhN3esgDuSXsTiw&_nc_ohc=PA7lqdeVOEoQ7kNvwGOwky3&_nc_gid=YEyDr-rTfeUw0QTcKY7zhw&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AfGsY3xmXe5TtPvTCchAkGQX5KHaeEu7fURlb3VALZi4rQ&oe=6817377B&_nc_sid=1e20d2') profile_pic_url_hd=HttpUrl('https://instagram.ffbe4-1.fna.fbcdn.net/v/t51.2885-19/494769726_18080187772779646_3028115102887399899_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_ht=instagram.ffbe4-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QElU74DIrPPs_0jOLRxRdrjiy6BtSK4Ozo5hfxrA_gmreRmxJD9fhN3esgDuSXsTiw&_nc_ohc=PA7lqdeVOEoQ7kNvwGOwky3&_nc_gid=YEyDr-rTfeUw0QTcKY7zhw&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AfEq4Y5bWhQczYMvSaJ_S-YKzEUUl2BT_CPqrbQO6bSJ1Q&oe=6817377B&_nc_sid=1e20d2') is_verified=False media_count=0 follower_count=236 following_count=216 biography='⚜ | Letras\n♡ | @mate0sfernandes' bio_links=[BioLink(link_id='17960421809753373', url='http://vsco.co/tisadias', lynx_url='https://l.instagram.com/?u=http%3A%2F%2Fvsco.co%2Ftisadias%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAacBR3jya9RF2K3dZwtnyyRTRxyP9dyC2TD8ommCvfJZQJi-Jomox2bcEoH5CA_aem_kC3bbkfVby1IdpOrk-4p6Q&e=AT3DwhOP7lhIehvpDifhXgRvcFCxcJnxxtXKkutlF6bwZQMfZHEISKBEOU4x2bN2HG2tKRcxy_PuHwozATvKANPpfCuE_kHndR7igIc', link_type='external', title='vsco_tisadias', is_pinned=False, open_external_url_with_in_app_browser=True)] external_url='http://vsco.co/tisadias' account_type=1 is_business=False broadcast_channel=[] public_email=None contact_phone_number=None public_phone_country_code=None public_phone_number=None business_contact_method=None business_category_name=None category_name=None category=None address_street=None city_id=None city_name=None latitude=None longitude=None zip=None instagram_location_id=None interop_messaging_user_fbid='115467543229539': Aaah
+[2025-04-29 21:21:31] [MESSAGE] Nova mensagem de pk='23436059645' username='tisa_dias' full_name='Leticia' is_private=False profile_pic_url=HttpUrl('https://instagram.ffbe4-1.fna.fbcdn.net/v/t51.2885-19/494769726_18080187772779646_3028115102887399899_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffbe4-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QHWOvyfd8K_ruxV58JvQAzX0ocdtdsA0hTqmOvAoIKBWStpQCMN7ziPVXGIMVotEzI&_nc_ohc=PA7lqdeVOEoQ7kNvwGOwky3&_nc_gid=0Cm03oz-2yTD3hi2a6hkZw&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AfFB3Akmj-RPZRzuxrGBEkGtnPg_y9Xxt4bn_oXBbgfaHg&oe=6817377B&_nc_sid=1e20d2') profile_pic_url_hd=HttpUrl('https://instagram.ffbe4-1.fna.fbcdn.net/v/t51.2885-19/494769726_18080187772779646_3028115102887399899_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_ht=instagram.ffbe4-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QHWOvyfd8K_ruxV58JvQAzX0ocdtdsA0hTqmOvAoIKBWStpQCMN7ziPVXGIMVotEzI&_nc_ohc=PA7lqdeVOEoQ7kNvwGOwky3&_nc_gid=0Cm03oz-2yTD3hi2a6hkZw&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AfFCxfWmJ1LHiVzVZedHMWHHzpThwbQWANLwRUeLk-Ip0Q&oe=6817377B&_nc_sid=1e20d2') is_verified=False media_count=0 follower_count=236 following_count=216 biography='⚜ | Letras\n♡ | @mate0sfernandes' bio_links=[BioLink(link_id='17960421809753373', url='http://vsco.co/tisadias', lynx_url='https://l.instagram.com/?u=http%3A%2F%2Fvsco.co%2Ftisadias%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAacp9jQbO-2NahEdFAjx_ifZQ9yn_EYxZ5XazMwfIRz4a7FMCr_RgWCFXu6hew_aem_DRPbg7x3zATqeDGCi9ShXg&e=AT0i_thdfgTXZSfpKSGK-1r1X3X_xwEiTJsgobIFdm8kjiyL5maDnyHh657-7VbEts7rPvmPn9OTGi9D02n-y7D6-vYEHjHM-9X354M', link_type='external', title='vsco_tisadias', is_pinned=False, open_external_url_with_in_app_browser=True)] external_url='http://vsco.co/tisadias' account_type=1 is_business=False broadcast_channel=[] public_email=None contact_phone_number=None public_phone_country_code=None public_phone_number=None business_contact_method=None business_category_name=None category_name=None category=None address_street=None city_id=None city_name=None latitude=None longitude=None zip=None instagram_location_id=None interop_messaging_user_fbid='115467543229539': Entendi
+[2025-04-29 21:21:33] [MESSAGE] Nova mensagem de pk='23436059645' username='tisa_dias' full_name='Leticia' is_private=False profile_pic_url=HttpUrl('https://instagram.ffbe4-1.fna.fbcdn.net/v/t51.2885-19/494769726_18080187772779646_3028115102887399899_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_ht=instagram.ffbe4-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QFtUfUchLYkU1WcJ-aEV3aOly032XJs0CyLO6sRaH4duUFYIRSWp-8lZmHXOrhZ8WQ&_nc_ohc=PA7lqdeVOEoQ7kNvwGOwky3&_nc_gid=jcbqCYZ7eg4PKUhfNlf2cw&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AfEiXiPPalzrb0KDhWU1zNk0iqGk1ydximQuCCg2tyYo2Q&oe=6817377B&_nc_sid=1e20d2') profile_pic_url_hd=HttpUrl('https://instagram.ffbe4-1.fna.fbcdn.net/v/t51.2885-19/494769726_18080187772779646_3028115102887399899_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_ht=instagram.ffbe4-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QFtUfUchLYkU1WcJ-aEV3aOly032XJs0CyLO6sRaH4duUFYIRSWp-8lZmHXOrhZ8WQ&_nc_ohc=PA7lqdeVOEoQ7kNvwGOwky3&_nc_gid=jcbqCYZ7eg4PKUhfNlf2cw&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AfEmRGPrYrmAe_1ZS-SG-29NblEWU1fe2NHLPanUnvk43A&oe=6817377B&_nc_sid=1e20d2') is_verified=False media_count=0 follower_count=236 following_count=216 biography='⚜ | Letras\n♡ | @mate0sfernandes' bio_links=[BioLink(link_id='17960421809753373', url='http://vsco.co/tisadias', lynx_url='https://l.instagram.com/?u=http%3A%2F%2Fvsco.co%2Ftisadias%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAac25XCdxRtQO-wCWHer1xBXnvoVUYZTRPbFbyIN36SSaw-45RLWsNVFfob8Ew_aem_hQznZJ1HO4QjTBYavx2d3Q&e=AT3L4FvjQ1y3UxrOpsLf5eJAyT3hDvBdXYepe-2r8Sr_anNDOXpnbwHi-ThrDLt9Vl2Q2_EGWYbBpsIW1SBtmiZocjkK18_uX_vDd5Y', link_type='external', title='vsco_tisadias', is_pinned=False, open_external_url_with_in_app_browser=True)] external_url='http://vsco.co/tisadias' account_type=1 is_business=False broadcast_channel=[] public_email=None contact_phone_number=None public_phone_country_code=None public_phone_number=None business_contact_method=None business_category_name=None category_name=None category=None address_street=None city_id=None city_name=None latitude=None longitude=None zip=None instagram_location_id=None interop_messaging_user_fbid='115467543229539': Nada ainda
+[2025-04-29 21:21:36] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:21:55] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:22:13] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:22:32] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:22:50] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:23:09] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:24:19] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:24:31] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 21:24:33] [ERROR] ERRO: 'DirectMessage' object has no attribute 'user'
+[2025-04-29 21:27:24] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:27:35] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 21:27:44] [ERROR] ERRO: Logs.new_message() missing 1 required positional argument: 'texto'
+[2025-04-29 21:28:15] [ERROR] ERRO: Logs.new_message() missing 1 required positional argument: 'texto'
+[2025-04-29 21:28:50] [ERROR] ERRO: Logs.new_message() missing 1 required positional argument: 'texto'
+[2025-04-29 21:29:30] [ERROR] ERRO: Logs.new_message() missing 1 required positional argument: 'texto'
+[2025-04-29 21:30:14] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:30:24] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 21:30:26] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:30:26] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:30:26] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:30:26] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:30:26] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:30:26] [ERROR] Erro ao processar mensagem: 'InstagramBot' object has no attribute '_get_remetente_name_safe'
+[2025-04-29 21:30:28] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:30:46] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:31:05] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:31:23] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:31:51] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:32:04] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 21:32:09] [MESSAGE] Nova mensagem de pk='43256093075' username='carlosyoot' full_name='Carlos Yoot' is_private=True profile_pic_url=HttpUrl('https://scontent-qro1-1.cdninstagram.com/v/t51.2885-19/464760996_1254146839119862_3605321457742435801_n.png?stp=dst-jpg_e0_s150x150_tt6&cb=8577c754-c2464923&_nc_ht=scontent-qro1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QFvIp8LMk5bkQayQJvtX19dGrspxYjouIqGn3f7Kaqzwo07OkY2asYhGHib9JSloTKieYJLGwDkK9DPRv_qF_mp&_nc_ohc=rM8wv-5Ka48Q7kNvwEStxC_&_nc_gid=IoulVNeCXo4C6G2X_d1m0Q&edm=ALlQn9MBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5-cb8577c754-c2464923&oh=00_AfHdVuVtSlSVq-ULgDE5y02vLoAPwKrg4IizHsbu6W4yaA&oe=681749E8&_nc_sid=e7f676') profile_pic_url_hd=HttpUrl('https://scontent-qro1-1.cdninstagram.com/v/t51.2885-19/464760996_1254146839119862_3605321457742435801_n.png?stp=dst-jpg_e0_s150x150_tt6&cb=8577c754-c2464923&_nc_ht=scontent-qro1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QFvIp8LMk5bkQayQJvtX19dGrspxYjouIqGn3f7Kaqzwo07OkY2asYhGHib9JSloTKieYJLGwDkK9DPRv_qF_mp&_nc_ohc=rM8wv-5Ka48Q7kNvwEStxC_&_nc_gid=IoulVNeCXo4C6G2X_d1m0Q&edm=ALlQn9MBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5-cb8577c754-c2464923&oh=00_AfHdVuVtSlSVq-ULgDE5y02vLoAPwKrg4IizHsbu6W4yaA&oe=681749E8&_nc_sid=e7f676') is_verified=False media_count=0 follower_count=749 following_count=588 biography='💼dev\nhttps://x.com/Carlosyoot\nhttps://github.com/Carlosyoot' bio_links=[] external_url=None account_type=1 is_business=False broadcast_channel=[] public_email=None contact_phone_number=None public_phone_country_code=None public_phone_number=None business_contact_method=None business_category_name=None category_name=None category=None address_street=None city_id=None city_name=None latitude=None longitude=None zip=None instagram_location_id=None interop_messaging_user_fbid='17842166468445076': olá
+[2025-04-29 21:32:10] [INFO] Resposta enviada para thread 340282366841710301244276215813835532052
+[2025-04-29 21:32:45] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:32:56] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 21:33:00] [MESSAGE] Nova mensagem de Carlos Yoot: olá
+[2025-04-29 21:33:01] [INFO] Resposta enviada para thread 340282366841710301244276215813835532052
+[2025-04-29 21:33:04] [MESSAGE] Nova mensagem de Carlos Yoot: Como vai você
+[2025-04-29 21:33:05] [MESSAGE] Nova mensagem de Zoroa: Olá! Como posso ajudar?
+[2025-04-29 21:33:06] [INFO] Resposta enviada para thread 340282366841710301244276215813835532052
+[2025-04-29 21:33:08] [MESSAGE] Nova mensagem de Zoroa: Olá Carlos Yoot! Como posso ajudar?
+[2025-04-29 21:33:09] [INFO] Resposta enviada para thread 340282366841710301244276215813835532052
+[2025-04-29 21:33:11] [MESSAGE] Nova mensagem de Zoroa: Olá Zoroa! Como posso ajudar?
+[2025-04-29 21:33:12] [INFO] Resposta enviada para thread 340282366841710301244276215813835532052
+[2025-04-29 21:33:13] [MESSAGE] Nova mensagem de Zoroa: BOT ONLINE
+[2025-04-29 21:33:15] [MESSAGE] Nova mensagem de Leticia: Aaah
+[2025-04-29 21:33:18] [MESSAGE] Nova mensagem de Leticia: Entendi
+[2025-04-29 21:33:20] [MESSAGE] Nova mensagem de Leticia: Nada ainda
+[2025-04-29 21:33:23] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:40:50] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:41:01] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 21:41:05] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:41:08] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:41:12] [WARNING] Nenhuma conversa encontrada.
+[2025-04-29 21:42:52] [INFO] Tentando fazer login no Instagram...
+[2025-04-29 21:43:03] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 21:43:07] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:10] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:14] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:17] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:21] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:24] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:27] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:31] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:34] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:38] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:42] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:45] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:49] [ERROR] Erro durante monitoramento: cannot access local variable 'processar_mensagens' where it is not associated with a value
+[2025-04-29 21:43:52] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:43:54] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:43:55] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:43:56] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:43:58] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:43:59] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:00] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:02] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:03] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:04] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:05] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:07] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:08] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:09] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:11] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:12] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:13] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:15] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:16] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:17] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:18] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:20] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:21] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:22] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:24] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:26] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:27] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:28] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:30] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:31] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:33] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:34] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:35] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:37] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:38] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:39] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:41] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:42] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:44] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:45] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:46] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:48] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:49] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:50] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:51] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:53] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:54] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:55] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:57] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:58] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:44:59] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:01] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:02] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:03] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:05] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:06] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:07] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:08] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:10] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:11] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:12] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:14] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:15] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:16] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:17] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:19] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:20] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:22] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:23] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:25] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:26] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 21:45:27] [ERROR] Erro durante monitoramento: login_required
+[2025-04-29 23:01:13] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 23:01:15] [ERROR] Erro durante monitoramento: Erro ao processar threads: 'DirectMessage' object has no attribute 'is_seen'
+[2025-04-29 23:01:15] [INFO] Encerrando o bot...
+[2025-04-29 23:04:36] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 23:04:41] [MESSAGE] Nova mensagem de UserID: 23436059645: Nada ainda
+[2025-04-29 23:04:43] [MESSAGE] Nova mensagem de UserID: 23436059645: Entendi
+[2025-04-29 23:04:45] [MESSAGE] Nova mensagem de UserID: 23436059645: Aaah
+[2025-04-29 23:04:47] [MESSAGE] Nova mensagem de UserID: 60328252812: None
+[2025-04-29 23:04:49] [MESSAGE] Nova mensagem de UserID: 43256093075: Como vai você
+[2025-04-29 23:04:51] [MESSAGE] Nova mensagem de UserID: 43256093075: olá
+[2025-04-29 23:04:51] [INFO] Mensagens salvas em 'mensagens.json'.
+[2025-04-29 23:04:51] [INFO] Encerrando o bot...
+[2025-04-29 23:14:23] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 23:14:26] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Nada ainda
+[2025-04-29 23:14:26] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Entendi
+[2025-04-29 23:14:26] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Aaah
+[2025-04-29 23:14:26] [MESSAGE] Nova mensagem de UserID: 60328252812: [UNKNOWN] Tipo não identificado
+[2025-04-29 23:14:26] [MESSAGE] Nova mensagem de UserID: 43256093075: [TEXT] Como vai você
+[2025-04-29 23:14:26] [MESSAGE] Nova mensagem de UserID: 43256093075: [TEXT] olá
+[2025-04-29 23:14:26] [INFO] Mensagens salvas em 'mensagens.json'.
+[2025-04-29 23:14:26] [INFO] Encerrando o bot...
+[2025-04-29 23:14:35] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 23:14:38] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Nada ainda
+[2025-04-29 23:14:38] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Entendi
+[2025-04-29 23:14:38] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Aaah
+[2025-04-29 23:14:38] [MESSAGE] Nova mensagem de UserID: 60328252812: [UNKNOWN] Tipo não identificado
+[2025-04-29 23:14:38] [MESSAGE] Nova mensagem de UserID: 43256093075: [TEXT] Como vai você
+[2025-04-29 23:14:38] [MESSAGE] Nova mensagem de UserID: 43256093075: [TEXT] olá
+[2025-04-29 23:14:38] [INFO] Mensagens salvas em 'mensagens.json'.
+[2025-04-29 23:14:38] [INFO] Encerrando o bot...
+[2025-04-29 23:14:56] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 23:14:59] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Nada ainda
+[2025-04-29 23:14:59] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Entendi
+[2025-04-29 23:14:59] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Aaah
+[2025-04-29 23:14:59] [MESSAGE] Nova mensagem de UserID: 60328252812: [UNKNOWN] Tipo não identificado
+[2025-04-29 23:14:59] [MESSAGE] Nova mensagem de UserID: 43256093075: [TEXT] Como vai você
+[2025-04-29 23:14:59] [MESSAGE] Nova mensagem de UserID: 43256093075: [TEXT] olá
+[2025-04-29 23:14:59] [INFO] Mensagens salvas em 'mensagens.json'.
+[2025-04-29 23:14:59] [INFO] Encerrando o bot...
+[2025-04-29 23:17:17] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 23:17:20] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Nada ainda
+[2025-04-29 23:17:20] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Entendi
+[2025-04-29 23:17:20] [MESSAGE] Nova mensagem de UserID: 23436059645: [TEXT] Aaah
+[2025-04-29 23:17:20] [MESSAGE] Nova mensagem de UserID: 60328252812: [CLIP] Clip ID: 3592136403455302979
+[2025-04-29 23:17:20] [MESSAGE] Nova mensagem de UserID: 43256093075: [TEXT] Como vai você
+[2025-04-29 23:17:20] [MESSAGE] Nova mensagem de UserID: 43256093075: [TEXT] olá
+[2025-04-29 23:17:20] [INFO] Mensagens salvas em 'mensagens.json'.
+[2025-04-29 23:17:20] [INFO] Encerrando o bot...
+[2025-04-29 23:23:40] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 23:23:44] [MESSAGE] Nova mensagem de Usuário: tisa_dias: [TEXT] Nada ainda
+[2025-04-29 23:23:46] [MESSAGE] Nova mensagem de Usuário: tisa_dias: [TEXT] Entendi
+[2025-04-29 23:23:48] [MESSAGE] Nova mensagem de Usuário: tisa_dias: [TEXT] Aaah
+[2025-04-29 23:23:50] [MESSAGE] Nova mensagem de Usuário: bel.ferrasso4: [CLIP] Clip ID: 3592136403455302979
+[2025-04-29 23:23:52] [MESSAGE] Nova mensagem de Usuário: carlosyoot: [TEXT] Como vai você
+[2025-04-29 23:23:54] [MESSAGE] Nova mensagem de Usuário: carlosyoot: [TEXT] olá
+[2025-04-29 23:23:54] [INFO] Mensagens salvas em 'mensagens.json'.
+[2025-04-29 23:23:54] [INFO] Encerrando o bot...
+[2025-04-29 23:27:42] [SUCCESS] Login realizado com sucesso!
+[2025-04-29 23:27:47] [MESSAGE] Nova mensagem de Usuário: tisa_dias: [TEXT] Nada ainda
+[2025-04-29 23:27:49] [MESSAGE] Nova mensagem de Usuário: tisa_dias: [TEXT] Entendi
+[2025-04-29 23:27:51] [MESSAGE] Nova mensagem de Usuário: tisa_dias: [TEXT] Aaah
+[2025-04-29 23:27:53] [MESSAGE] Nova mensagem de Usuário: bel.ferrasso4: [CLIP] Clip ID: 3592136403455302979
+[2025-04-29 23:27:54] [MESSAGE] Nova mensagem de Usuário: carlosyoot: [TEXT] Como vai você
+[2025-04-29 23:27:56] [MESSAGE] Nova mensagem de Usuário: carlosyoot: [TEXT] olá
+[2025-04-29 23:27:56] [INFO] Mensagens salvas em 'mensagens.json'.
+[2025-04-29 23:28:06] [CRITICAL] Erro no script principal: 'NoneType' object is not subscriptable
+[2025-04-29 23:28:06] [INFO] Encerrando o bot...
+[2025-04-29 23:29:54] [INFO] Encerrando o bot...
+[2025-04-29 23:35:25] [CRITICAL] Erro no script principal: 404 Client Error: Not Found for url: https://www.instagram.com/p/DHZ1Qbos91D/?__a=1&__d=dis
+[2025-04-29 23:35:25] [INFO] Encerrando o bot...
+[2025-04-29 23:35:49] [CRITICAL] Erro no script principal: login_required
+[2025-04-29 23:35:49] [INFO] Encerrando o bot...
+[2025-04-29 23:36:00] [INFO] Encerrando o bot...
+[2025-04-29 23:37:00] [INFO] Encerrando o bot...
+[2025-04-29 23:37:14] [INFO] Encerrando o bot...
+[2025-04-29 23:39:03] [INFO] Encerrando o bot...
+[2025-04-29 23:40:38] [INFO] Encerrando o bot...
+[2025-04-29 23:45:06] [INFO] Encerrando o bot...
